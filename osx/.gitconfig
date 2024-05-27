@@ -1,5 +1,5 @@
 [includeIf "gitdir:~/Programming/IT_GOES/**/"]
-        path = ~/.gitconfig.it_goes
+        path =
 
 [includeIf "gitdir:~/Programming/Personal/**/"]
         path = ~/.gitconfig.personal

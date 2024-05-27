@@ -1,7 +1,7 @@
 [user]
         name = alessandrror
         email = ssandrorivas@gmail.com
-        signingKey = A5D5D9F7D8FCABED
+        signingKey =
 
 [commit]
           gpgsign = true
