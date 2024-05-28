@@ -1,0 +1,12 @@
+[includeIf "gitdir:~/Programming/IT_GOES/**/"]
+        path =
+
+[includeIf "gitdir:~/Programming/Personal/**/"]
+        path = ~/.gitconfig.personal
+
+[init]
+        defaultBranch = main
+
+[core]
+        editor = /usr/bin/vim
+
